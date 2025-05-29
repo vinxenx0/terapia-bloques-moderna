@@ -1,6 +1,7 @@
 
 import React from 'react';
 import { Button } from "@/components/ui/button";
+import { Badge } from "@/components/ui/badge";
 import { ArrowRight, Heart, Users, Award } from 'lucide-react';
 
 const Hero = () => {
